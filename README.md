@@ -1,6 +1,6 @@
 **Flight Simulator**
 
-This is a project of Graphic Design course of UIUC. 
+This is a project of Graphic Design. 
 
 It is a simple flight simulator I made using OpenGL to handle the display. 
 The airplane should automatically move forward at a fixed speed. 
