@@ -8,4 +8,4 @@ The user will control the bank and tilt of the airplane through the arrow keys. 
 
 Demo as follows:
 
-![image](https://github.com/WalisWang/Flight-Simulator/blob/master/Flight.gif)
+![image](https://github.com/WalisWang/Flight-Simulator/blob/master/Flight-iloveimg-compressed.gif)
